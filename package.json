@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "RSA key public key generator for iOS and Android",
   "main": "index.js",
+  "homepage": "https://github.com/zumaawad/react-native-key-pair#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
